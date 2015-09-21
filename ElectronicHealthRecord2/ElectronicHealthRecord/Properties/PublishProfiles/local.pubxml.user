@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit http://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <_PublishTargetUrl>C:\ehrSystem</_PublishTargetUrl>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="About.aspx">
+      <publishTime>09/07/2015 17:37:39</publishTime>
+    </File>
+    <File Include="AddExaminations.aspx">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="bin/ElectronicHealthRecord.dll">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="Bundles.config">
+      <publishTime>09/07/2015 17:32:46</publishTime>
+    </File>
+    <File Include="Content/bootstrap.css">
+      <publishTime>09/07/2015 10:22:28</publishTime>
+    </File>
+    <File Include="Content/bootstrap.min.css">
+      <publishTime>09/07/2015 10:22:41</publishTime>
+    </File>
+    <File Include="Content/EHR-tem.jpg">
+      <publishTime>09/07/2015 17:03:15</publishTime>
+    </File>
+    <File Include="Home.aspx">
+      <publishTime>09/07/2015 17:37:34</publishTime>
+    </File>
+    <File Include="LoggedIn.aspx">
+      <publishTime>10/07/2015 13:02:29</publishTime>
+    </File>
+    <File Include="Login.aspx">
+      <publishTime>10/07/2015 12:49:52</publishTime>
+    </File>
+    <File Include="myMaster.Master">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="Register.aspx">
+      <publishTime>10/07/2015 11:04:34</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+  </ItemGroup>
+</Project>

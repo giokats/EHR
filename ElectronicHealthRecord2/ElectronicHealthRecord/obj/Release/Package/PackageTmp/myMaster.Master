@@ -1,0 +1,86 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="myMaster.master.cs" Inherits="ElectronicHealthRecord.myMaster" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title></title>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+    <style type="text/css">
+        .auto-style1 {
+            width: 100%;
+        }
+        .auto-style2 {
+            height: 182px;
+            width: 1320px;
+        }
+        .auto-style3 {
+            height: 474px;
+            width: 1320px;
+        }
+        .auto-style4 {
+            height: 469px;
+        }
+        .auto-style5 {
+            height: 469px;
+            width: 285px;
+        }
+        .auto-style6 {
+            width: 1320px;
+        }
+    </style>
+</head>
+<body>
+    <form id="form1" runat="server">
+    <div>
+        <table class="auto-style1">
+            <tr>
+                <td class="auto-style2" style="background-position: center center; background-color: #CCFFFF; font-size: xx-large; background-repeat: no-repeat; background-image: url('/Content/EHR-tem.jpg');">&nbsp;</td>
+            </tr>
+            <tr>
+                <td class="auto-style3">
+                    <table class="auto-style1">
+                        <tr>
+                            <td class="auto-style5" style="text-align: center; vertical-align: top"><strong>Κατάλογος Περιεχομένων<br />
+                                <br />
+                                <br />
+                                <a href="Home.aspx">Αρχική</a><br />
+                                </strong><strong><a href="About.aspx">Λίγια λόγια για εμάς</a></strong><br />
+                                <a href="AddExaminations.aspx">AddExaminations</a><br />
+                                <br />
+                                <br />
+                                <a href="Register.aspx"><strong>Προσθήκη Ασθενή</strong></a><strong><br />
+                                </strong>
+                                <a href="Login.aspx"><strong>Σύνδεση</strong></a><br />
+                                <br />
+                                <br />
+                                <br />
+                                <br />
+                                <br />
+                                <br />
+                                <br />
+                                <br />
+                                <br />
+                                <br />
+                                <br />
+                                <asp:Button ID="registerbtn" runat="server" Text="Εγγραφή" />
+                            </td>
+                            <td class="auto-style4">
+                                <asp:ContentPlaceHolder ID="MainContent" runat="server">
+                                    <p>
+                                        Εδώ</p>
+                                </asp:ContentPlaceHolder>
+                            </td>
+                        </tr>
+                    </table>
+                </td>
+            </tr>
+            <tr>
+                <td class="auto-style6">&nbsp;</td>
+            </tr>
+        </table>
+    </div>
+    </form>
+</body>
+</html>

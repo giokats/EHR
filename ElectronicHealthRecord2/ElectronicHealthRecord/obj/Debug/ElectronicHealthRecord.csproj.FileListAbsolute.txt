@@ -1,0 +1,28 @@
+C:\Users\George\Desktop\ElectronicHealthRecord2\ElectronicHealthRecord\bin\ElectronicHealthRecord.dll.config
+C:\Users\George\Desktop\ElectronicHealthRecord2\ElectronicHealthRecord\bin\ElectronicHealthRecord.dll
+C:\Users\George\Desktop\ElectronicHealthRecord2\ElectronicHealthRecord\bin\ElectronicHealthRecord.pdb
+C:\Users\George\Desktop\ElectronicHealthRecord2\ElectronicHealthRecord\obj\Debug\ElectronicHealthRecord.csprojResolveAssemblyReference.cache
+C:\Users\George\Desktop\ElectronicHealthRecord2\ElectronicHealthRecord\obj\Debug\ElectronicHealthRecord.dll
+C:\Users\George\Desktop\ElectronicHealthRecord2\ElectronicHealthRecord\obj\Debug\ElectronicHealthRecord.pdb
+C:\Users\Dimitris\Desktop\ElectronicHealthRecord2\ElectronicHealthRecord\obj\Debug\ElectronicHealthRecord.csprojResolveAssemblyReference.cache
+C:\Users\Dimitris\Desktop\ElectronicHealthRecord2\ElectronicHealthRecord\obj\Debug\ElectronicHealthRecord.dll
+C:\Users\Dimitris\Desktop\ElectronicHealthRecord2\ElectronicHealthRecord\obj\Debug\ElectronicHealthRecord.pdb
+C:\Users\Dimitris\Desktop\ElectronicHealthRecord2\ElectronicHealthRecord\bin\ElectronicHealthRecord.dll.config
+C:\Users\Dimitris\Desktop\ElectronicHealthRecord2\ElectronicHealthRecord\bin\ElectronicHealthRecord.dll
+C:\Users\Dimitris\Desktop\ElectronicHealthRecord2\ElectronicHealthRecord\bin\ElectronicHealthRecord.pdb
+C:\Users\Dimitris\Desktop\ElectronicHealthRecord2\ElectronicHealthRecord\bin\MySql.Data.dll
+C:\Users\Dimitris\Desktop\ElectronicHealthRecord2\ElectronicHealthRecord\bin\MySql.Web.dll
+D:\Dimitris\Visual Studio 2013\Projects\ElectronicHealthRecord2\ElectronicHealthRecord\bin\ElectronicHealthRecord.dll.config
+D:\Dimitris\Visual Studio 2013\Projects\ElectronicHealthRecord2\ElectronicHealthRecord\bin\ElectronicHealthRecord.dll
+D:\Dimitris\Visual Studio 2013\Projects\ElectronicHealthRecord2\ElectronicHealthRecord\bin\ElectronicHealthRecord.pdb
+D:\Dimitris\Visual Studio 2013\Projects\ElectronicHealthRecord2\ElectronicHealthRecord\bin\MySql.Data.dll
+D:\Dimitris\Visual Studio 2013\Projects\ElectronicHealthRecord2\ElectronicHealthRecord\bin\MySql.Web.dll
+D:\Dimitris\Visual Studio 2013\Projects\ElectronicHealthRecord2\ElectronicHealthRecord\obj\Debug\ElectronicHealthRecord.csprojResolveAssemblyReference.cache
+D:\Dimitris\Visual Studio 2013\Projects\ElectronicHealthRecord2\ElectronicHealthRecord\obj\Debug\ElectronicHealthRecord.dll
+D:\Dimitris\Visual Studio 2013\Projects\ElectronicHealthRecord2\ElectronicHealthRecord\obj\Debug\ElectronicHealthRecord.pdb
+C:\Users\Dimitris\Documents\Visual Studio 2013\Projects\ElectronicHealthRecord2\ElectronicHealthRecord\bin\ElectronicHealthRecord.dll.config
+C:\Users\Dimitris\Documents\Visual Studio 2013\Projects\ElectronicHealthRecord2\ElectronicHealthRecord\bin\ElectronicHealthRecord.dll
+C:\Users\Dimitris\Documents\Visual Studio 2013\Projects\ElectronicHealthRecord2\ElectronicHealthRecord\bin\ElectronicHealthRecord.pdb
+C:\Users\Dimitris\Documents\Visual Studio 2013\Projects\ElectronicHealthRecord2\ElectronicHealthRecord\obj\Debug\ElectronicHealthRecord.csprojResolveAssemblyReference.cache
+C:\Users\Dimitris\Documents\Visual Studio 2013\Projects\ElectronicHealthRecord2\ElectronicHealthRecord\obj\Debug\ElectronicHealthRecord.dll
+C:\Users\Dimitris\Documents\Visual Studio 2013\Projects\ElectronicHealthRecord2\ElectronicHealthRecord\obj\Debug\ElectronicHealthRecord.pdb

@@ -1,0 +1,109 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="myMaster.master.cs" Inherits="ElectronicHealthRecord.myMaster" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title></title>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+    <style type="text/css">
+        .auto-style1 {
+            width: 100%;
+            
+            align-content:center;
+            margin:0 auto;
+            text-align:center;
+
+        }
+        .auto-style2 {
+            height: 182px;
+            width: 1320px;
+          
+            align-content:center;
+            margin:0 auto;
+            text-align:center;
+
+        }
+        .auto-style3 {
+            height: 474px;
+            width: 1320px;
+            
+            align-content:center;
+            margin:0 auto;
+            text-align:center;
+
+        }
+        .auto-style4 {
+            height: 469px;
+          
+            align-content:center;
+            margin:0 auto;
+            text-align:center;
+        }
+        .auto-style5 {
+            height: 469px;
+           
+            align-content:center;
+            
+            text-align:center;
+            width: 273px;
+        }
+        .auto-style6 {
+            width: 1320px;
+            
+            align-content:center;
+            margin:0 auto;
+            text-align:center;
+
+        }
+        .newStyle1 {
+            color: #00FFFF;
+        }
+        </style>
+</head>
+<body>
+    <form id="form1" runat="server">
+    <div>
+        <table class="auto-style1">
+            <tr>
+                <td class="auto-style2" style="background-position: center center; background-color: #FF9900; font-size: xx-large; background-repeat: no-repeat; background-image: url('/Content/EHR-tem.jpg');">&nbsp;</td>
+            </tr>
+            <tr>
+                <td class="auto-style3">
+                    <table class="auto-style1">
+                        <tr>
+                            <td class="auto-style5" style="text-align: center; vertical-align: top; background-color: #8C8C8C;"><strong aria-selected="undefined" style="font-family: 'Monotype Corsiva'; font-size: x-large"></strong>
+                                <br />
+                                <h3>Γραφείο γιατρού</h3>
+                                <span class="newStyle1">Ώρες επίσκεψης: </span>
+                                <br />
+                                Δευτέρα-Παρασκευή<br />
+                                8-12πμ, 15-21μμ<br />
+                                <br />
+
+                                <br />
+                                <asp:Label ID="welcomemsg" runat="server" Text="Label" Font-Bold="True" Font-Names="Monotype Corsiva" Font-Size="20pt" ForeColor="#FF9900"></asp:Label>
+                                <br />
+                                <br />
+                                <asp:Button ID="logoutbtn" runat="server" Text="Αποσύνδεση" Visible="False" BackColor="#FF9900" OnClick="logoutbtn_Click" />
+                            </td>
+                            <td class="auto-style4">
+                                <asp:ContentPlaceHolder ID="MainContent" runat="server">
+                                    <p>
+                                        
+                                        Εδώ</p>
+                                </asp:ContentPlaceHolder>
+                            </td>
+                        </tr>
+                    </table>
+                </td>
+            </tr>
+            <tr>
+                <td class="auto-style6">&nbsp;</td>
+            </tr>
+        </table>
+    </div>
+    </form>
+</body>
+</html>
